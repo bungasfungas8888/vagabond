@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #dfdeded2;       /* Cor de fundo leve */
     box-shadow: 0px 4px 8px rgb(255, 255, 255); /* Sombra suave */
     margin: 20px 0;                  /* Espaçamento externo */
-    max-width: 800px;                /* Largura máxima */
+    max-width: 1600px;                /* Largura máxima */
     line-height: 1.6;                /* Altura da linha */
     font-size: 1.5em;                /* Aumentar tamanho do texto */
 }
@@ -86,15 +86,11 @@ body {
 }
 
 .autor__imagem {
-    width: 300px; /* Ajusta o tamanho da imagem */
+    width: 180px; /* Ajusta o tamanho da imagem */
     height: auto;
     border-radius: 20%; /* Deixa a imagem circular */
     margin-bottom: 50px;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Adiciona sombra para destacar */
-    position: absolute;
-    top: 1600px;
-    right: 75px;
-    
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Adiciona sombra para destacar */   
 }
 
 .autor h2 {
